@@ -11,21 +11,22 @@ Sigue los siguientes pasos para instalar y ejecutar el proyecto en tu máquina l
 1. Clona el repositorio:
 
 ```sh
-git clone https://github.com/tu-usuario/tu-repositorio.git
+sudo git clone https://github.com/tu-usuario/tu-repositorio.git
 ```
 
-2. Clona el repositorio:
+2. Abrir el contenedor:
 ```sh
-Sigue los siguientes pasos para instalar y ejecutar el proyecto en tu máquina local:
-```
-2. Clona el repositorio:
-```sh
-git clone https://github.com/tu-usuario/tu-repositorio.git
+cd tool_kit
 ```
 
-2. Clona el repositorio:
+2. Dar permisos a init.py:
 ```sh
-Sigue los siguientes pasos para instalar y ejecutar el proyecto en tu máquina local:
+chmod +w init.py
+```
+
+2. Abrir init.py:
+```sh
+sudo python3 init.py
 ```
 2. Clona el repositorio:
 ```sh

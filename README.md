@@ -2,14 +2,13 @@
 
 ## Descripción
 
-Aquí puedes describir brevemente de qué trata el proyecto y su objetivo principal.
+Tool kit es una herramienta la cual recopila multiples herramientas de hacking/cracking
 
 ## Instalación
 
 Sigue los siguientes pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
-
 ```sh
 sudo git clone https://github.com/tu-usuario/tu-repositorio.git
 ```
@@ -28,12 +27,7 @@ chmod +w init.py
 ```sh
 sudo python3 init.py
 ```
-2. Clona el repositorio:
-```sh
-git clone https://github.com/tu-usuario/tu-repositorio.git
-```
-2. Clona el repositorio:
-```sh
-Sigue los siguientes pasos para instalar y ejecutar el proyecto en tu máquina local:
-```
+
+
+
 

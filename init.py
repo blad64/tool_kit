@@ -88,7 +88,7 @@ def op1():
         time.sleep(0.2)
         subprocess.run(["python3", "PyPhisher/pyphisher.py"])
     except ModuleNotFoundError:
-        subprocess.run(["git", "clone", pyphisher])
+        subprocess.run(["git", "clone", "https://github.com/KasRoudra/PyPhisher"])
         print(Fore.YELLOW + "incializando...")
         time.sleep(0.2)
         subprocess.run(["python3", "PyPhisher/pyphisher.py"])
